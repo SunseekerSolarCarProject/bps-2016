@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="257" key="DIALOG_WIDTH"/>
+		<item value="437" key="DIALOG_Y_ORIGIN"/>
+		<item value="844" key="DIALOG_X_ORIGIN"/>
+		<item value="368" key="DIALOG_HEIGHT"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="true" key="wrap"/>
+		<item value="true" key="casesensitive"/>
+		<item value="false" key="isRegEx"/>
+		<item value="true" key="incremental"/>
+		<item value="false" key="wholeword"/>
+		<item value="current" key="selection"/>
+		<list key="findhistory">
+			<item value="current"/>
+			<item value="PC_Complete"/>
+			<item value="selfcheck_temp_error"/>
+			<item value="temp_status"/>
+			<item value="_contconv_start"/>
+			<item value="adc_bus1_contconv_start"/>
+			<item value="mode_count"/>
+			<item value="cm_flag"/>
+		</list>
+		<list key="replacehistory">
+			<item value="cancheck_flag"/>
+			<item value="DR_LED1_OFF"/>
+			<item value="DR_LED1_ON"/>
+			<item value="DR_LED0_OFF"/>
+			<item value="DR_LED0_ON"/>
+			<item value="DR_LED0"/>
+			<item value="max"/>
+			<item value="can_car_enable"/>
+		</list>
+	</section>
+</section>
